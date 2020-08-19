@@ -3,5 +3,5 @@ def reverse_each_word(string)
   string.split do |x|
     z << x 
   end
-  puts x.reverse
+  puts z.reverse
 end
